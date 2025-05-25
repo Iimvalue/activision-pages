@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "DIN Next LT Pro", sans-serif;
+  src: local("DIN"), url("./assets/fonts/DIN.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
